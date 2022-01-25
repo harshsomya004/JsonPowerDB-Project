@@ -1,2 +1,5 @@
-# JsonPowerDB-Project
-JsonPowerDB Project for registration of employee into company Database. New Database JsonPowerDB via Login2Xplore (Organisation) is used as data base.
+TTitle -JsonPowerDB Registration Project
+
+
+Description- JsonPowerDB Regisatration Project for registration of employee into company Database. 
+It is based on New Database type JsonPowerDB via Login2Xplore (Organisation) .
